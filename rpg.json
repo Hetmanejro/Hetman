@@ -1,0 +1,32 @@
+{
+    "nazwa": "Berserker z Norski",
+    "opis": "",
+    "cechy": {
+        "ww": 15,
+        "us": 0,
+        "k": 10,
+        "odp": 10,
+        "zr": 0,
+        "int": 0,
+        "sw": 10,
+        "ogd": 0,
+        "a": 0,
+        "zyw": 2,
+        "s": 0,
+        "wt": 0,
+        "sz": 0,
+        "mag": 0,
+        "po": 0,
+        "pp": 0
+    },
+    "umiejetnosci": [
+        "kuglarstwo-gawedziarstwo", "mocna-glowa", "plywanie", "wiedza-norska", "zastraszanie", "znajomosc-jezyka-norski"
+    ],
+    "zdolnosci": [
+        "bron-specjalna-dwureczna", "grozny", "szal-bojowy", "szybkie-wyciagniecie"
+    ],
+    "wyposazenie": [["broń dwuręczna", "tarcza"], "lekki pancerz (skórzany kaftan)", "butelka gorzałki"],
+    "profesje-wstepne": [],
+    "profesje-wyjsciowe": ["gladiator", "najemnik", "sierzant", "weteran", "zeglarz"],
+    "uwagi": ""
+}
